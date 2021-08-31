@@ -33,7 +33,7 @@ int main ()
 		a = getch();
 
 	
-		if ( a == 77 ){ //Sað
+		if ( a == 77 ){ //SaÃ°
 			if(M!=9){
 				M++;
 					if (arr[N][M] == '1')
@@ -52,7 +52,7 @@ int main ()
 			}
 		}
 		
-		if ( a == 72 ){ //Yukarý
+		if ( a == 72 ){ //YukarÃ½
 			if(N!=0){
 				N--;
 					if (arr[N][M] == '1')
@@ -62,7 +62,7 @@ int main ()
 			}
 		}
 	
-		if ( a == 80 ){ //Aþaðý
+		if ( a == 80 ){ //AÃ¾aÃ°Ã½
 			if(N!=5){
 				N++;
 					if (arr[N][M] == '1')
