@@ -1,4 +1,4 @@
-*This section has different kind of codes written in C*
+*This repository has different kind of codes written in C*
 
 ### HackerRank Solutions
 There are lots of remarkable codes which i wrote when i was learning C programming.
