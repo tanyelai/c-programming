@@ -1,4 +1,4 @@
-*This repository has different kind of codes written in C*
+# Content
 
 ### HackerRank Solutions
 > There are lots of remarkable codes which i wrote when i was learning C programming.
