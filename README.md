@@ -22,5 +22,9 @@ The problem description is in the file.
 ____________________________________________________________________________________________________________________________________________________________________________
 
 ### Run-Length Encoding (RLE)
-> ![image](https://user-images.githubusercontent.com/44132720/131572326-7d6fc440-4b26-4b36-997d-ca92e66270b0.png)
-You can find the details in pdf file.
+> Run-length encoding (RLE) is a very simple form of data compression in which a stream
+of data is given as the input (i.e. "AAABBCCCC") and the output is a sequence of counts
+of consecutive data values in a row (i.e. "3A2B4C"). This type of data compression is
+lossless, meaning that when decompressed, all of the original data will be recovered
+when decoded. Its simplicity in both the encoding (compression) and decoding
+(decompression) is one of the most attractive features of the algorithm.
